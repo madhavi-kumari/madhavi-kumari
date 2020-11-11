@@ -4,7 +4,8 @@
  - looking forward to solving real-world problems
  - I'm a knowledge seeker & ❤️ to learn new technologies
  
-
+<br/>
+<hr>
 <a> <img align="left" height="40" width="100" src="https://komarev.com/ghpvc/?username=madhavi-kumari&label=Views&color=blue&style=plastic" alt="Demoupgrad" /> </a>
  <br/>
  <br/>
@@ -38,7 +39,7 @@
 ![Madhavi's github stats](https://github-readme-stats.vercel.app/api?username=madhavi-kumari&show_icons=true&theme=radical)
 <br/>
 <hr>
-### **Languages and Tools:**  
+<h2> **Languages and Tools:**  
 <a>
   <img align="left" img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
 
