@@ -30,15 +30,20 @@
 ![Madhavi's github stats](https://github-readme-stats.vercel.app/api?username=madhavi-kumari&show_icons=true&theme=radical)
 
 ### **Languages and Tools:**  
-<code><img align="left" img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  <img align="left" img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
 
-<code><img align="left" img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"></code>
+<a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  <img align="left" img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"></a>
 
-<code><img align="left" img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
+<a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  <img align="left" img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></a>
 
-<code><img align="left" img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg"></code>
+<a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  <img align="left" img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg"></a>
 
-<code><img align="left" img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg"></code>
+<a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  <img align="left" img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg"></a>
 
 
 
