@@ -1,10 +1,10 @@
 # *Hi there 👋! I'm Madhavi*
 
- -a software engineer, 
- -making my way to a full-stack developer 
- -looking forward to solving real-world problems
- -I'm a knowledge seeker and love to learn new technologies
- -coding is ❤️
+### -a software engineer, 
+### -making my way to a full-stack developer 
+### -looking forward to solving real-world problems
+### -I'm a knowledge seeker and love to learn new technologies
+### -coding is ❤️
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavi-kumari&label=Views&color=blue&style=plastic" alt="Demoupgrad" /> </p>
 
