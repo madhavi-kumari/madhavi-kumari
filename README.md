@@ -32,7 +32,7 @@
 ### **Languages and Tools:**  
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-<img src="https://icon-library.net/icon/vb-net-icon-10.html">Vb Net Icon #174883>
+<img src="https://icon-library.net/icon/vb-net-icon-10.html">
 
 
 
