@@ -34,6 +34,12 @@
 
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"></code>
 
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
+
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg"></code>
+
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg"></code>
+
 
 
 
