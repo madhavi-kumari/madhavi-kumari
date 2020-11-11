@@ -1,6 +1,6 @@
-### Hi there 👋
-Hi there 👋
-I am a software engineer, making my way to a full-stack developer and looking forward to solving real-world problems.
+# Hi there 👋! I'm Madhavi
+
+## I am a software engineer, making my way to a full-stack developer and looking forward to solving real-world problems.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavi-kumari&label=Views&color=blue&style=plastic" alt="Demoupgrad" /> </p>
 
