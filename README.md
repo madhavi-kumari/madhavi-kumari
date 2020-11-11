@@ -29,6 +29,8 @@ I am a software engineer, making my way to a full-stack developer and looking fo
 
 <img src="https://github-readme-stats.vercel.app/api?username=madhavi-kumari&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Flowers in Chania" width="460" height="345">
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 
 
