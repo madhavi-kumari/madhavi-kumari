@@ -30,15 +30,17 @@
 ![Madhavi's github stats](https://github-readme-stats.vercel.app/api?username=madhavi-kumari&show_icons=true&theme=radical)
 
 ### **Languages and Tools:**  
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<div class="row">
+  <div class="column">
+    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></div>
 
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"></code>
+<div class="column"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"></div>
 
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
+<div class="column"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></div>
 
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg"></code>
+<div class="column"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg"></div>
 
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg"></code>
+<div class="column"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg"></div></div>
 
 
 
