@@ -8,6 +8,9 @@
 <a> <img align="left" height="40" width="100" src="https://komarev.com/ghpvc/?username=madhavi-kumari&label=Views&color=blue&style=plastic" alt="Demoupgrad" /> </a>
  <br/>
  <br/>
+ <hr>
+ <br/>
+ 
 <a href="https://twitter.com/MadhaviRoy1">
   <img align="left" alt="Madhavi's Twitter" width="55px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -29,11 +32,12 @@
 
 <br/>
 <br/>
+<hr>
 <br/>
 
-
 ![Madhavi's github stats](https://github-readme-stats.vercel.app/api?username=madhavi-kumari&show_icons=true&theme=radical)
-
+<br/>
+<hr>
 ### **Languages and Tools:**  
 <a>
   <img align="left" img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
