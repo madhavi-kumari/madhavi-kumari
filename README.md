@@ -19,11 +19,16 @@ I am a software engineer, making my way to a full-stack developer and looking fo
 <a href="https://www.instagram.com/madhavi_roy/">
   <img align="left" alt="Madhavi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://www.facebook.com/madhavi.kumari.319/">
+  <img align="left" alt="Madhavi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
 
 <br/>
 <br/>
 
-<a href="https://github-readme-stats.vercel.app/api?username=madhavi-kumari&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-![Github stats](https://github-readme-stats.vercel.app/api?username=madhavi-kumari)
+<img src="https://github-readme-stats.vercel.app/api?username=madhavi-kumari&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Flowers in Chania" width="460" height="345">
+
+
 
 
