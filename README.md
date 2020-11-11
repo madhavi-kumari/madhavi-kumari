@@ -1,6 +1,10 @@
-# Hi there 👋! I'm Madhavi
+# *Hi there 👋! I'm Madhavi*
 
-## I am a software engineer, making my way to a full-stack developer and looking forward to solving real-world problems.
+## -a software engineer, 
+## -making my way to a full-stack developer 
+## -looking forward to solving real-world problems
+## -I'm a knowledge seeker and love to learn new technologies
+## -coding is ❤️
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavi-kumari&label=Views&color=blue&style=plastic" alt="Demoupgrad" /> </p>
 
@@ -33,16 +37,16 @@
 <a>
   <img align="left" img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
 
-<a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<a>
   <img align="left" img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"></a>
 
-<a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<a>
   <img align="left" img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></a>
 
-<a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<a>
   <img align="left" img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg"></a>
 
-<a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<a>
   <img align="left" img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg"></a>
 
 
