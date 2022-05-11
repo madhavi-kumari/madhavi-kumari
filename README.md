@@ -1,6 +1,6 @@
 # *Hi there 👋! I'm Madhavi*
 
- - a software engineer,making my way to a full-stack developer 
+ - a software developer,making my way in the IT industry 
  - looking forward to solving real-world problems
  - I'm a knowledge seeker & ❤️ to learn new technologies
  
